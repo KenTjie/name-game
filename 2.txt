@@ -1,0 +1,12 @@
+North America
+South America
+Europe
+Africa
+Asia
+Australia
+Antarctica
+Pacific
+Atlantic
+Arctic
+Indian
+Antarctic
